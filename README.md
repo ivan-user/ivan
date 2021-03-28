@@ -4,7 +4,7 @@
 
 - While looking for employment I'm learning to broaden my current skillset with new technologies
 
-#### Skills & tools
+### Skills & tools
 <img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="30px" src="images/html5.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="30px" src="images/css3.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Javascript" width="30px" src="images/javascript.svg" />
@@ -17,7 +17,7 @@
 <img align="left" style="margin-bottom: 5px" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - InDesign" width="30px" src="images/indesign.svg" />
-<img align="left" style="margin-bottom: 5px" alt="Skill - AfterEffects" width="30px" src="images/aftereffects.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - After Effects" width="30px" src="images/aftereffects.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Premiere Pro" width="30px" src="images/premiere.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Sketch App" width="30px" src="images/sketch.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Invision App" width="30px" src="images/invision.svg" />

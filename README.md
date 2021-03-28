@@ -5,14 +5,15 @@
 - While looking for employment I'm learning to broaden my current skillset with new technologies
 
 ### Skills & tools
-[<img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="30px" src="images/html5.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="30px" src="images/css3.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Javascript" width="30px" src="images/javascript.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - React" width="30px" src="images/react.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - NodeJs" width="30px" src="images/node-js.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />]
-[<img align="left" style="margin-bottom: 5px" alt="Skill - Github" width="30px" src="images/github.svg" />]
-<br>
+<img align="left" style="margin-bottom: 5px" alt="Skill - HTML5" width="30px" src="images/html5.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - CSS3" width="30px" src="images/css3.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - Javascript" width="30px" src="images/javascript.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - React" width="30px" src="images/react.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - NodeJs" width="30px" src="images/node-js.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - Github" width="30px" src="images/github.svg" />
+<br><br>
+
 
 <img align="left" style="margin-bottom: 5px" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />

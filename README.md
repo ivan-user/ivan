@@ -1,6 +1,6 @@
 ## Hello! My name is Ivan 👋
 
-### I'm an aspring Web Developer with an extensive background in Visual Design <img alt="Pen tool" width="22px" src="/images/pen.png" />
+### I'm an aspring Web Developer with an extensive background in Visual Design <img alt="Pen tool" width="22px" src="/images/pen.svg" />
 
 
 

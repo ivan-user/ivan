@@ -28,7 +28,7 @@
 [<img align="left" alt="Skill - Premiere Pro" width="30px" src="images/premiere.svg" />][github]
 [<img align="left" alt="Skill - Sketch App" width="30px" src="images/sketch.svg" />][github]
 [<img align="left" alt="Skill - Invision App" width="30px" src="images/invision.svg" />][github]
-[<img align="left" alt="Skill - Trello App" width="30px" src="images/trello.svg />][github]
+[<img align="left" alt="Skill - Trello" width="30px" src="images/trello.svg" />][github]
 
 <br>
 

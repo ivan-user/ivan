@@ -6,7 +6,7 @@
 
 ---
 
-### Skills & tools
+### Skills & tools 🛠
 
 [<img align="left" alt="Skill - HTML5" width="30px" src="images/html5.svg" />][github]
 [<img align="left" alt="Skill - CSS3" width="30px" src="images/css3.svg" />][github]
@@ -34,7 +34,7 @@
 
 ---
 
-### Connect with me
+### Connect with me 👇
 [<img align="left" alt="Skill - LinkedIn" width="30px" src="images/linkedin.svg" />][linkedin]
 
 

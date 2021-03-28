@@ -15,6 +15,9 @@
 <img align="left" alt="Skill - NodeJs" width="30px" src="images/node-js.svg" />
 <img align="left" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />
 <img align="left" alt="Skill - Github" width="30px" src="images/github.svg" />
+
+<br>
+
 <br>
 
 <img align="left" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />

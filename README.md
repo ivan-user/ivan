@@ -4,8 +4,6 @@
 
 - While looking for employment I'm learning to broaden my current skillset with new technologies
 
-<br>
-
 ---
 
 ### Skills & tools

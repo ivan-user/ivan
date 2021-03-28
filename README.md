@@ -16,7 +16,6 @@
 <img align="left" alt="Skill - Github" width="30px" src="images/github.svg" />
 
 
----
 
 <img align="left" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
 <img align="left" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />

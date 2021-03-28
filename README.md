@@ -6,6 +6,8 @@
 
 <br>
 
+---
+
 ### Skills & tools
 
 [<img align="left" alt="Skill - HTML5" width="30px" src="images/html5.svg" />][github]
@@ -15,6 +17,7 @@
 [<img align="left" alt="Skill - NodeJs" width="30px" src="images/node-js.svg" />][github]
 [<img align="left" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />][github]
 [<img align="left" alt="Skill - Github" width="30px" src="images/github.svg" />][github]
+[<img align="left" alt="Skill - Jira" width="30px" src="images/jira.svg" />][github]
 
 <br>
 
@@ -27,13 +30,14 @@
 [<img align="left" alt="Skill - Premiere Pro" width="30px" src="images/premiere.svg" />][github]
 [<img align="left" alt="Skill - Sketch App" width="30px" src="images/sketch.svg" />][github]
 [<img align="left" alt="Skill - Invision App" width="30px" src="images/invision.svg" />][github]
+[<img align="left" alt="Skill - Trello App" width="30px" src="images/trello.svg" />][github]
 
 <br>
 
 ---
 
-### Drop me a line
-
+### Connect with me
+[<img align="left" alt="Skill - LinkedIn" width="30px" src="images/linkedin.svg" />][github]
 
 
 

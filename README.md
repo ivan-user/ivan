@@ -13,7 +13,7 @@
 <img align="left" style="margin-bottom: 5px" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Git" width="30px" src="images/git.svg" />
 <br>
-<img align="left" style="margin-bottom: 5px" alt="Skill - Illustrator" widtdith="30px" src="images/illustrator.svg" />
+<img align="left" style="margin-bottom: 5px" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - InDesign" width="30px" src="images/indesign.svg" />
 <img align="left" style="margin-bottom: 5px" alt="Skill - AfterEffects" width="30px" src="images/aftereffects.svg" />

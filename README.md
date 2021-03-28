@@ -18,10 +18,6 @@
 
 <br>
 
----
-
-<br>
-
 [<img align="left" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />][github]
 [<img align="left" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />][github]
 [<img align="left" alt="Skill - InDesign" width="30px" src="images/indesign.svg" />][github]

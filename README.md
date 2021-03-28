@@ -4,7 +4,7 @@
 
 - While looking for employment I'm learning to broaden my current skillset with new technologies
 
----
+<br>
 
 ### Skills & tools
 <img align="left" alt="Skill - HTML5" width="30px" src="images/html5.svg" />
@@ -15,7 +15,7 @@
 <img align="left" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />
 <img align="left" alt="Skill - Github" width="30px" src="images/github.svg" />
 
-<br>
+---
 
 <img align="left" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
 <img align="left" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />

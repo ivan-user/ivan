@@ -12,8 +12,9 @@
 <img align="left" alt="Skill - NodeJs" width="30px" src="images/node-js.svg" />
 <img align="left" alt="Skill - Mongo Db" width="30px" src="images/mongodb.svg" />
 <img align="left" alt="Skill - Github" width="30px" src="images/github.svg" />
-<br><br>
+<br>
 
+<br>
 
 <img align="left" alt="Skill - Photoshop" width="30px" src="images/photoshop.svg" />
 <img align="left" alt="Skill - Illustrator" width="30px" src="images/illustrator.svg" />
@@ -23,6 +24,9 @@
 <img align="left" alt="Skill - Sketch App" width="30px" src="images/sketch.svg" />
 <img align="left" alt="Skill - Invision App" width="30px" src="images/invision.svg" />
 <br>
-----
+
+---
+
+<br>
 
 ### Drop me a line
